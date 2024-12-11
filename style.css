@@ -1,0 +1,134 @@
+*{
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #000;
+    font-family: clibri;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+
+
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+
+}
+.btn{
+    background-color: red;
+    margin-left: 10px;
+    border-radius: 25px; 
+    padding: 15px;
+    border: 2px solid gray;
+
+}
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.pic>img{
+    max-width: 0%;
+    min-width: 100%;
+
+}
+.one>button{
+   background: transparent;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 20px;
+    border: 2px solid grey;
+}
+.one a{
+    color: red;
+
+}
+.text{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+
+}
+.font{
+      font-style: var(sk.ttf);
+      }
+}
+span{
+    font-family: myfont;
+}
+.three>img{
+    margin: 0%;
+    padding-left: 20px;
+    height: 150px;
+}
+
+.papa{
+text-align: center;
+}
+.sks{
+    background: transparent;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 20px;
+    border: 2px solid grey;
+    margin-left: 290px;
+
+}
+.sm{
+    background: transparent;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 20px;
+    border: 2px solid grey;
+    margin-left: 150px;
+}
+.sl{
+    background: transparent;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 20px;
+    border: 2px solid grey;
+    margin-left: 140px;
+}
+.order{
+    border: 2px solid transparent;
+}
+.footer_container{
+    background-color: white;
+    height: 400px;
+    border: 2px solid lightblue;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: #ddd;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: #cd4c4c;
+}
